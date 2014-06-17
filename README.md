@@ -4,7 +4,7 @@ RottenTomatoesApp
 
 This is a basic Rotten Tomates Application
 
-I have spent 7 to 8 hours to complete this exercise. I have reviewed the persentation article couple of times, UI Controllers,controllers inside controllers, subviews, onselct methods,delegate methods,TableCell Afnetworking, cocoa pods, iToast,MBProgressHUD and also error handling.
+I have spent 12 hours to complete this exercise. I have reviewed the persentation article couple of times, UI Controllers,controllers inside controllers, subviews, onselct methods,delegate methods,TableCell Afnetworking, cocoa pods, iToast,MBProgressHUD and also error handling.
 
 I can do much better in terms of handling the optional stories, error handling, beautification of app in future assignments.
 
