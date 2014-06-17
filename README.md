@@ -19,6 +19,5 @@ User can pull to refresh the movie list.
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](RottenTomates_Latest.gif)
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![Video Walkthrough](RottenTomatesClient/RottenTomates_Latest.gif)
+RottenTomatoesClientGIF created with [LiceCap](http://www.cockos.com/licecap/).
