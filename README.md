@@ -19,5 +19,5 @@ User can pull to refresh the movie list.
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](RottenTomatesClient/RottenTomates_Latest.gif)
+![Video Walkthrough](https://github.com/vnugopal2000/RottenTomatoesApp/blob/master/RottenTomatoesClient/RottenTomates_Latest.gif)
 RottenTomatoesClientGIF created with [LiceCap](http://www.cockos.com/licecap/).
